@@ -9,3 +9,4 @@
 <h2>Duke Nukem 3d</h2>
 	<h2>Jebać hip-hop</h2>
 >>>>>>> 1d38f7a... Change paddle size
+<h3>Hip-hopolo jest najlepsze!</h3>
