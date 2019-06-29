@@ -5,6 +5,7 @@
 >>>>>>> make_game_easier
 <<<<<<< HEAD
 =======
+<h4>Tger na marsie</h4>
 
 <h2>Duke Nukem 3d</h2>
 	<h2>Jebać hip-hop</h2>
